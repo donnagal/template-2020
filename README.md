@@ -1,6 +1,6 @@
-# Independent Living Assessment | ilaustralia.org.au
+# Tailwind Template 2020
 
-As part of a pre-launch this landing page has been created.
+A quick template to get things up and running fast.
 
 ## Status
 
