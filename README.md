@@ -13,7 +13,7 @@ As part of a pre-launch this landing page has been created.
 
 ## Preview
 
-[![Preview](/img/demo.jpg)]
+[![Preview](public/img/demo.jpg)]
 
 ## Download and Installation
 
